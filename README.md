@@ -70,4 +70,7 @@
 > "Коммерческого опыта нет, но есть горящие глаза и желание создавать крутые продукты. Учусь на практике, совершаю ошибки, исправляю их и двигаюсь дальше!"
 
 *P.S. Верю, что лучший опыт — это создавать что-то своё с любовью ❤️*
+
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=NailyDev&theme=vue&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NailyDev&theme=vue)
