@@ -73,4 +73,4 @@
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=NailyDev&theme=vue&hide_border=true)
 
-              ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NailyDev&theme=vue)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NailyDev&theme=vue)
