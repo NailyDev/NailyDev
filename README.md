@@ -42,14 +42,6 @@
 
 ---
 
-### 📊 **Моя активность на GitHub**
-
-![NailyDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=NailyDev&show_icons=true&theme=vue&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NailyDev&layout=compact&theme=vue&hide_border=true)
-
----
-
 ### 🎯 **Что я сейчас делаю**
 
 🔭 **Разрабатываю MVP для стартапа** на Nuxt 3 + PrimeVue  
