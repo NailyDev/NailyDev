@@ -1,17 +1,25 @@
-# 👋 Привет, я NailyDev!
+# 👋 Привет, я Dias!
 
-🚀 **Frontend-разработчик, создающий IT-стартап**  
-✨ Специализируюсь на создании современных, быстрых и отзывчивых веб-приложений
+🚀 **Junior FullStack Developer, создающий IT-стартап**  
+✨ Специализируюсь на создании современных, быстрых и отзывчивых веб-приложений с полным циклом разработки
 
 ---
 
 ### 🛠 **Мой стек технологий**
 
-**Основной стек:**
+**Frontend:**
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PrimeVue](https://img.shields.io/badge/PrimeVue-1D1D1D?style=for-the-badge)
+
+**Backend:**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 **Состояние и валидация:**
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black)
@@ -29,25 +37,25 @@
 > 💡 **Основной источник знаний и вдохновения:** [@dllcommunity](https://t.me/dllcommunity)
 
 Я учусь через:
-- **Практику** — создаю реальный IT-стартап с нуля
+- **Практику** — создаю реальный IT-стартап с нуля (full cycle)
 - **Комьюнити** — активно участвую в профессиональных сообществах
-- **Постоянное обучение** — слежу за лучшими практиками в экосистеме Vue
+- **Постоянное обучение** — слежу за лучшими практиками в экосистеме JavaScript/TypeScript
 
 **Характеристики моего кода:**
-- ✅ Чистая архитектура компонентов
-- ✅ TypeScript-ready подход
-- ✅ Оптимизация производительности
+- ✅ Чистая архитектура (модули, сервисы, репозитории)
+- ✅ TypeScript-first подход
+- ✅ Оптимизация производительности (бэкенд + фронтенд)
 - ✅ Mobile-first дизайн
-- ✅ Доступность (a11y)
+- ✅ Надежные API и работа с БД
 
 ---
 
 ### 🎯 **Что я сейчас делаю**
 
-🔭 **Разрабатываю MVP для стартапа** на Nuxt 3 + PrimeVue  
-🌱 **Углубляю знания** в оптимизации Vue-приложений  
+🔭 **Разрабатываю MVP для стартапа** на Nuxt 3 + NestJS + Prisma  
+🌱 **Углубляю знания** в микросервисной архитектуре и Kafka  
 👯 **Ищу единомышленников** для обмена опытом  
-💡 **Экспериментирую** с новыми возможностями Composition API
+💡 **Экспериментирую** с high-load сценариями и оптимизацией запросов
 
 ---
 
@@ -55,14 +63,15 @@
 
 💬 **Telegram:** [@NailyDev]   
 📧 **Email:** [probicevt@gmail.com]
+
 ---
 
 ### ⚡ **Факт обо мне**
 
-> "Коммерческого опыта нет, но есть горящие глаза и желание создавать крутые продукты. Учусь на практике, совершаю ошибки, исправляю их и двигаюсь дальше!"
+> "Коммерческого опыта нет, но есть горящие глаза и желание создавать крутые продукты. Уже закрываю полный цикл — от UI/UX до бэкенда и баз данных. Учусь на практике, совершаю ошибки, исправляю их и двигаюсь дальше!"
 
 *P.S. Верю, что лучший опыт — это создавать что-то своё с любовью ❤️*
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=NailyDev&theme=vue&hide_border=true)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NailyDev&theme=vue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NailyDev&theme=vue)
